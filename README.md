@@ -2,21 +2,15 @@
 
 This repository contains files used in the MA705 dashboard project.
 
-Use Markdown to write your readme.md file.  Here is a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
-
 The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities.herokuapp.com).
 
 ## Dashboard Description
 
-Brief description of dashboard's purpose.
+The dashboard summarizes the information of the number of deaths caused by different reasons during four years obtained from the Data.CDC.gov website.
+There is one bar chart and two tables in this dashboard.
 
 ### Data Sources
 
-Brief description of where/how you got the data and how it was processed.
+- Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.csv
+- nst-est2019-01.csv (the estimated US population of each state)
 
-- List of Sources
-- List of Sources
-
-### Other Comments
-
-Anything you'd like to add
