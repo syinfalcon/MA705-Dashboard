@@ -14,7 +14,7 @@ Bar chart:
 - y axis shows the number of deaths per 1000000 residents
 - y label shows the cause of death
 - the color in the bar chart means different states
-- 
+
 Table1:
 - it solves the question that which state has the highest average number of deaths per 1000000 residents caused by the reason selected?
 - Table1 is only affected by the cause of death
