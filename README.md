@@ -4,8 +4,8 @@ This repository contains files used in the MA705 dashboard project.
 
 ## Dashboard Description
 
-The dashboard summarizes the information of the number of deaths caused by different reasons during four years obtained from the Data.CDC.gov website.
-There is one bar chart and two tables in this dashboard.
+The dashboard summarizes the information of the number of deaths caused by different reasons during four years obtained from the Data.CDC.gov website. 
+It includes one bar chart and two tables.
 
 Bar chart:
 - x axis shows the time by year
