@@ -8,6 +8,17 @@ The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities
 
 The dashboard summarizes the information of the number of deaths caused by different reasons during four years obtained from the Data.CDC.gov website.
 There is one bar chart and two tables in this dashboard.
+Bar chart:
+- x axis shows the time by year
+- y axis shows the number of deaths per 1000000 residents
+- y label shows the cause of death
+- the color in the bar chart means different states
+Table1:
+- it solves the question that which state has the highest average number of deaths per 1000000 residents caused by the reason selected?
+- Table1 is only affected by the cause of death
+Table2:
+- it shows the average number of deaths per 1000000 residents with different causation in each state you select
+- Table2 is only affected by states
 
 ### Data Sources
 
