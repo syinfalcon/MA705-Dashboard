@@ -1,4 +1,4 @@
-# MA705 Final Project
+# MA705 Final Project - Cause of Death Dashboard
 
 This repository contains files used in the MA705 dashboard project.
 
