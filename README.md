@@ -2,8 +2,6 @@
 
 This repository contains files used in the MA705 dashboard project.
 
-The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities.herokuapp.com).
-
 ## Dashboard Description
 
 The dashboard summarizes the information of the number of deaths caused by different reasons during four years obtained from the Data.CDC.gov website.
