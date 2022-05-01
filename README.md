@@ -11,18 +11,18 @@ There is one bar chart and two tables in this dashboard.
 
 Bar chart:
 - x axis shows the time by year
-- y axis shows the number of deaths per 1000000 residents
-- y label shows the cause of death
-- the color in the bar chart means different states
+- y axis shows the number of deaths per 1,000,000 residents
+- y label shows the causes of death
+- the color of the bar chart shows different states
 - this bar chart is affected by states and the cause of death
 
-Table1:
-- it solves the question that which state has the highest average number of deaths per 1000000 residents caused by the reason selected?
-- Table1 is only affected by the cause of death
+Table 1:
+- it solves the question that which state has the highest average number of deaths per 1,000,000 residents caused by the reason selected
+- Table 1 is only affected by the cause of death
 
-Table2:
-- it shows the average number of deaths per 1000000 residents with different causation in each state you select
-- Table2 is only affected by states
+Table 2:
+- it shows the average number of deaths per 1,000,000 residents with different causation in each state you selected
+- Table 2 is only affected by states
 
 ### Data Sources
 
